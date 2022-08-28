@@ -29,11 +29,11 @@ Hi, I'm San Shwe, a passionate self-taught full-stack web developer and a freela
 <!-- i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/San-Shwe/San-Shwe/blob/master/img/code.gif?raw=true" width="500" height="320" />
  
   
-💼 any freelance work? do reach, <a href="mailto:sanshwe330@gmail.com?">email</a> :)  
-🔍 I am looking for new job for better experience and salary.  
+💼 Is there any freelancing available? Please contact me via <a href="mailto:sanshwe330@gmail.com?">email</a> :)  
+🔍 I'm seeking for a new career that will provide me with more experience and pay.  
 ❓ Ask me about anything, I am happy to help.  
 
 **languages and tools:**  
@@ -91,3 +91,12 @@ Other       11 mins       ▒░░░░░░░░░░░░░░░░░
 
 
 [github_page](https://san-shwe.github.io/financial-calculator/)
+
+#### :octocat: GitHub Friends 🤝 	
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/hanpainghtoo"><kbd><img src="https://avatars.githubusercontent.com/u/89374878?v=4" width="40px;" alt=""/></kbd></td>
+    <td align="center"><a href="https://github.com/LynnLattYati"><kbd><img src="https://avatars.githubusercontent.com/u/108814689?v=4" width="40px;" alt=""/></kbd></td>
+    <td align="center"><a href="https://github.com/Toshikiyk"><kbd><img src="https://avatars.githubusercontent.com/u/75468942?v=4" width="40px;" alt=""/></kbd></td>
+  </tr>
+</table>

@@ -85,7 +85,7 @@ Other       11 mins       ▒░░░░░░░░░░░░░░░░░
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native 
+- 📱 𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞
 
 ![](https://visitor-badge.glitch.me/badge?page_id=San-Shwe.San-Shwe)
 

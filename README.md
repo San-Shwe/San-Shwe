@@ -63,7 +63,6 @@ Hi, I'm San Shwe, a passionate self-taught full-stack web developer and a freela
 📊 **this week i spent my time on:**
 
 <!-- START_SECTION:waka -->
-
 ```text
 JavaScript  9 hrs         █████████████▓░░░░░░░░░░░ 54.78 %
 VisualBasic 4 hrs 58 mins ███████▓░░░░░░░░░░░░░░░░░ 30.33 %
@@ -71,7 +70,6 @@ SCSS        1 hr 40 mins  ██▓░░░░░░░░░░░░░░░
 Markdown    25 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░ 02.55 %
 Other       11 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░ 01.12 %
 ```
-
 <!-- END_SECTION:waka -->
 
 <!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 -->

@@ -28,12 +28,12 @@ Hi, I'm San Shwe, a passionate self-taught full-stack web developer and a freela
 
 <!-- i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
   
-  <img align="right" alt="GIF" src="https://github.com/San-Shwe/San-Shwe/blob/main/img/code.gif" width="500" height="320" style="margin-right:30px;"/>
+  &ensp;&ensp;<img align="right" alt="GIF" src="https://github.com/San-Shwe/San-Shwe/blob/main/img/code.gif" width="500" height="320"/>
  
   
 💼 Is there any freelancing available? Please contact me via <a href="mailto:sanshwe330@gmail.com?">email</a> :)  
 🔍 I'm seeking for a new career that will provide me with more experience and pay.  
-❓ Ask me about anything, I am happy to help.
+❓ Ask me about anything, I am happy to help.  
 
 #### 🔧 Technologies & Tools
 

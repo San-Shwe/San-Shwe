@@ -36,7 +36,7 @@ Hi, I'm San Shwe, a passionate self-taught full-stack web developer and a freela
 🔍 I'm seeking for a new career that will provide me with more experience and pay.  
 ❓ Ask me about anything, I am happy to help.  
 
-**languages and tools:**  
+**Technologies & tools:**  
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/768px-VB.NET_Logo.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>

@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">  
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 <a href="https://www.instagram.com/_sanshwe_/">
   <img align="left" alt="Sanshwe's Facebook" width="22px" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" />
@@ -28,53 +28,50 @@ Hi, I'm San Shwe, a passionate self-taught full-stack web developer and a freela
 
 <!-- i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
 
-
   <img align="right" alt="GIF" src="https://github.com/San-Shwe/San-Shwe/blob/main/img/code.gif" width="500" height="320" />
  
   
 💼 Is there any freelancing available? Please contact me via <a href="mailto:sanshwe330@gmail.com?">email</a> :)  
 🔍 I'm seeking for a new career that will provide me with more experience and pay.  
-❓ Ask me about anything, I am happy to help.  
+❓ Ask me about anything, I am happy to help.
 
-#### 🔧 Technologies & Tools    
+#### 🔧 Technologies & Tools
+
 ‣ 𝑻𝒉𝒆𝒔𝒆 𝒂𝒓𝒆 𝒔𝒐𝒎𝒆 𝒐𝒇 𝒕𝒉𝒆 𝒎𝒂𝒋𝒐𝒓 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔 𝒕𝒉𝒂𝒕 𝑰 𝒖𝒔𝒆 𝒐𝒓 𝒉𝒂𝒗𝒆 𝒘𝒐𝒓𝒌𝒆𝒅 𝒐𝒏 𝒊𝒏 𝒕𝒉𝒆 𝒑𝒂𝒔𝒕:  
-<code>
-<img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-</code>
-<code><img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img align="left" alt="Javascript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<code><img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
-<code><img align="left" alt="Material UI" width="40px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" /></code>
-<code><img align="left" alt="PWA" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" /></code>
-<code><img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
-<code><img align="left" alt="Postman" width="40px" src="https://icon-library.com/images/postman-icon/postman-icon-6.jpg" /></code>
-<code><img align="left" alt="Wordpress" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" /></code>
-<code><img align="left" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" /></code>
-<code><img align="left" alt="intellij" width="40px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" /></code>
+<code><img  alt="HTML" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
+<code><img  alt="CSS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
+<code><img  alt="Javascript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
+<code><img  alt="React" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
+<code><img  alt="Material UI" height="20" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" /></code>
+<code><img  alt="PWA" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" /></code>
+<code><img  alt="Git" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
+<code><img  alt="Postman" height="20" src="https://icon-library.com/images/postman-icon/postman-icon-6.jpg" /></code>
+<code><img  alt="Wordpress" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" /></code>
+<code><img  alt="Ubuntu" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" /></code>
+<code><img  alt="intellij" height="20" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" /></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/768px-VB.NET_Logo.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/b788527f604d8e727fcc90d721984125bced85c8a1c9f8da69c6c4a3e51df3c5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f637373332e737667"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/a7628672dbfd8720309680580dbfe8aff1d12a1bb2397b5c36cd10a56e08adf7/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769742e737667"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/2097px-Microsoft_Office_Access_%282019-present%29.svg.png"></code>
 <br /><br /><br /><br />
 
 📊 **this week i spent my time on:**
+
 <!-- START_SECTION:waka -->
+
 ```text
-JavaScript  9 hrs         █████████████▓░░░░░░░░░░░ 54.78 % 
-VisualBasic 4 hrs 58 mins ███████▓░░░░░░░░░░░░░░░░░ 30.33 % 
-SCSS        1 hr 40 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░ 10.21 % 
-Markdown    25 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░ 02.55 % 
-Other       11 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░ 01.12 % 
+JavaScript  9 hrs         █████████████▓░░░░░░░░░░░ 54.78 %
+VisualBasic 4 hrs 58 mins ███████▓░░░░░░░░░░░░░░░░░ 30.33 %
+SCSS        1 hr 40 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░ 10.21 %
+Markdown    25 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░ 02.55 %
+Other       11 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░ 01.12 %
 ```
+
 <!-- END_SECTION:waka -->
 
 <!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 -->
@@ -83,17 +80,17 @@ Other       11 mins       ▒░░░░░░░░░░░░░░░░░
 
 <!-- 🚧 **my todoist stats:** -->
 <!-- TODO-IST:START -->
-<!-- 🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
+<!-- 🏆  7,995 Karma Points
+🌸  Completed 0 tasks today
+✅  Completed 673 tasks so far
 ⏳  Longest streak is 10 days -->
 <!-- TODO-IST:END -->
 <!-- - 🌱 &nbsp;I’m currently learning React -->
+
 ## 🔭 I'm currently working on
 
 - Costing App (VB.Net)
 - Costing App (React)
-
 
 ## 🌱 I'm currently learning
 
@@ -101,10 +98,10 @@ Other       11 mins       ▒░░░░░░░░░░░░░░░░░
 
 ![](https://visitor-badge.glitch.me/badge?page_id=San-Shwe.San-Shwe)
 
-
 [github_page](https://san-shwe.github.io/financial-calculator/)
 
-#### :octocat: GitHub Friends 🤝 	
+#### :octocat: GitHub Friends 🤝
+
 <table>
   <tr>
     <td align="center"><a href="https://github.com/hanpainghtoo"><kbd><img src="https://avatars.githubusercontent.com/u/89374878?v=4" width="40px;" alt=""/></kbd></td>

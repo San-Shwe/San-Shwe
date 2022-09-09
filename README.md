@@ -24,7 +24,7 @@
 </a>
 <br /><br />
 
-Hi, I'm San Shwe, a passionate self-taught full-stack web developer and a freelance software engineer from Myanmar. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care of the experience, architecture, and code quality of the things I build.
+<!-- Hi, I'm San Shwe, a passionate self-taught full-stack web developer and a freelance software engineer from Myanmar. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care of the experience, architecture, and code quality of the things I build. -->
   
    <img align="right" alt="GIF" src="https://github.com/San-Shwe/San-Shwe/blob/main/img/code.gif" width="500" height="320"/>
   

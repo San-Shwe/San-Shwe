@@ -23,9 +23,9 @@
   <img align="left" alt="Sanshwe's Youtube" width="25px" src="https://www.svgrepo.com/show/13671/youtube.svg" />
 </a>
 <br /><br />
-
+<!--
 Hi, I'm San Shwe, a passionate self-taught full-stack web developer and a freelance software engineer from Myanmar. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care of the experience, architecture, and code quality of the things I build.
-
+-->
 <!-- i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
 
   <img align="right" alt="GIF" src="https://github.com/San-Shwe/San-Shwe/blob/main/img/code.gif" width="500" height="320" />
